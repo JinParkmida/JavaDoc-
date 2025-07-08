@@ -190,21 +190,13 @@ To customize the JavaDoc templates, modify these methods in `JavaDocGenerator.ja
 
 ## Extending the Tool 🔧
 
-Ideas for enhancement:
+TODO:
 1. **Custom Templates**: Add configuration file for custom JavaDoc templates
 2. **Annotation Support**: Detect and document custom annotations
 3. **Multi-language**: Support for other JVM languages (Kotlin, Scala)
 4. **IDE Integration**: Create plugins for popular IDEs
 5. **Git Integration**: Auto-commit documented files
 6. **Report Generation**: Create HTML reports of documentation coverage
-
-## Why Recruiters Love This 💼
-
-1. **Shows Initiative**: You built a tool to enforce best practices
-2. **Practical Skills**: Demonstrates file I/O, regex, and string manipulation
-3. **Code Quality Focus**: Shows you care about maintainable code
-4. **Problem Solving**: Addresses a real developer pain point
-5. **Extensible Design**: Clean architecture that's easy to enhance
 
 ## Technical Implementation 🛠️
 
