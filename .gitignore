@@ -1,0 +1,42 @@
+# Compiled Java files
+*.class
+
+# Backup files created by JavaDoc Generator
+*.backup
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.metadata/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+target/
+build/
+out/
+bin/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Test output
+test-output/
+test-results/
